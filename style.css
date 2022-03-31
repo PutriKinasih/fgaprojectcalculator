@@ -8,11 +8,10 @@ body {
   height: 100vh;
   background: linear-gradient(to bottom, #00416a, #799f0c, #ffe000);
 }
-html {
-  font-size: 62.5%;
-}
+
+
 .calculator {
-  width: 40rem;
+  width: 400px;
   background-color: #00416a;
   padding: 50px 30px;
   position: absolute;
